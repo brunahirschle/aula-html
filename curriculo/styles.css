@@ -1,0 +1,16 @@
+* {
+    background-color: white;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+
+img {
+    border-radius: 10px;
+    width: 250px;
+}
+
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+}
